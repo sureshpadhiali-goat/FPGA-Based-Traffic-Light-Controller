@@ -85,14 +85,15 @@ FPGA-Traffic-Light-Controller/
 
 ### Simulation Console Output
 
-![Simulation Output](E:\personal document\placement program\VLSI BASED PROJECT\FPGA BASED TRAFFIC LIGHT CONTROLLER\screenshots\simulation-output.png)
+![Simulation Output](screenshots/simulation-output.png)
+
 ### GTKWave Verification
 
-![Waveform](E:\personal document\placement program\VLSI BASED PROJECT\FPGA BASED TRAFFIC LIGHT CONTROLLER\screenshots\waveform-.png)
+![Waveform](screenshots/waveform-.png)
 
 ### Project Structure
 
-![Project Structure](E:\personal document\placement program\VLSI BASED PROJECT\FPGA BASED TRAFFIC LIGHT CONTROLLER\screenshots\project-structure.png)
+![Project Structure](screenshots/project-structure.png)
 
 ---
 
